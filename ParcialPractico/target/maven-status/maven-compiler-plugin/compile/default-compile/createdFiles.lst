@@ -1,0 +1,12 @@
+Strategies\Ability.class
+Strategies\Burn.class
+Game\Lucha.class
+Objetos\Character.class
+Strategies\Heal.class
+Objetos\Mage.class
+Objetos\CharacterFactory.class
+Strategies\CastAbility.class
+Objetos\Warrior.class
+Strategies\Stun.class
+Objetos\Archer.class
+Game\Juego.class
